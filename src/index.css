@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+
+body {
+    background-color: #FF5C00; 
+    background-image: linear-gradient(90deg, rgba(246, 116, 11, 0.2) 1px, transparent 1px), 
+                      linear-gradient(rgba(250, 130, 9, 0.2) 1px, transparent 1px);
+    background-size: 50px 50px;
+    font-family: 'Architects Daughter', cursive;
+  }
+  
