@@ -17,8 +17,8 @@ const FrogSection = () => {
         </p>
 
         <button className="cta-button">
-          Join Us  Now
-          <a className='img' href=""><IoArrowRedo /></a>
+          Buy   Now
+          <a className='img' href="https://stx.city/bonding-curve/SPNT6E9ZDHQ5BKRZQ0M6ZDFFZXCPN4DTZ600VYDC.fwog-stxcity-dex/SPNT6E9ZDHQ5BKRZQ0M6ZDFFZXCPN4DTZ600VYDC.fwog-stxcity/SP2BN9JN4WEG02QYVX5Y21VMB2JWV3W0KNHPH9R4P"><IoArrowRedo /></a>
         </button>
       </div>
     </section>
